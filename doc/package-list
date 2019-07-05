@@ -1,0 +1,5 @@
+com.objis.cameroun.ges.connection
+com.objis.cameroun.ges.dao
+com.objis.cameroun.ges.domain
+com.objis.cameroun.ges.presentation
+com.objis.cameroun.ges.service
